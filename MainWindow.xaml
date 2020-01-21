@@ -11,7 +11,7 @@
             <TabItem Header="代办">
                 <ListBox Margin="5">
                     <ListBoxItem>
-                        <CheckBox Content="CheckBox" Margin="5"/>
+                        <CheckBox Content="代办1" Margin="5"/>
                     </ListBoxItem>
                     <ListBoxItem>
                         <CheckBox Content="CheckBox" Margin="5"/>
